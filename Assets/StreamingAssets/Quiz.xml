@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <List>
+    <QuizTimeRec>
+      <InitQuizInfo ID="0" Count="5">
+        <QuizList>
+          <InitQuiz ID="0" Type="ImgOpt">
+            <ImgOpt>
+              <Question>1. 한 사회의 구성원들에게 공통적인 행동 양식 및 사고 방식이 나타남. 인도에서는 왼손을 불경하게 여기고, 중국에서는 생일에 장수면을 먹는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="공유성"/>
+              </AnswerList>
+            </ImgOpt>              
+          </InitQuiz>
+          <InitQuiz ID="1" Type="ImgOpt">
+            <ImgOpt>
+              <Question>2. 문화는 타고나는 것이 아니라 후천적으로 학습된 결과로 얻어짐. 젓가락 사용법을 배우는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="학습성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="ImgOpt">
+            <ImgOpt>
+              <Question>3. 기존 문화에 새로운 지식과 생활양식이 계속 쌓이고 전승됨. 요리법이 전수되는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="축적성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="3" Type="ImgOpt">
+            <ImgOpt>
+              <Question>4. 문화는 고정된 것이 아니라 시대적, 사회적, 환경에 따라 끊임없이 변화함. 다른 계층이 먹을 수 있는 음식이 되었다던가, 외국 문물을 접하여 새로운 재료가 추가된 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="변동성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="4" Type="ImgOpt">
+            <ImgOpt>
+              <Question>5. 문화의 구성 요소들은 서로 밀접한 관련을 맺어, 하나의 문화 요소가 변화하면 다른 요소들에도 영향을 미침. 세계화로 인해 음식을 먹는 식기가 바뀐 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="전체성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+        </QuizList>
+      </InitQuizInfo>
+    </QuizTimeRec>
+    <QuizTimeAtk>
+      <InitQuizInfo ID="0" Count="3" Time="300.0">
+        <QuizList>
+          <InitQuiz ID="0" Type="Typing2">
+            <Typing2>
+              <Question>Q1. 태안 해안국립공원에 대한 설명에 맞으면 O, 틀리면 X 표시하세요.
+① 1978년에 우리나라 13번째 국립공원으로 지정되었다.
+② 해안 생태계의 다양성이 부족하다.
+③ 국내에서 세 번째로 지정된 해안국립공원이다.</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="O"/>
+                <InitAnswer ID="1" Answer="X"/>
+                <InitAnswer ID="2" Answer="X"/>
+              </AnswerList>
+            </Typing2>
+          </InitQuiz>
+          <InitQuiz ID="1" Type="Opt">
+            <Opt>
+              <Question>Q2. 생태관광의 조건이 아닌 것을 고르세요.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="Item0">
+                  <Text>① 소규모 인원으로 관광한다.</Text>
+                </InitItem>
+                <InitItem ID="1" Name="Item1">
+                  <Text>② 전문 가이드와 동행한다.</Text>
+                </InitItem>
+                <InitItem ID="2" Name="Item2">
+                  <Text>③ 지역의 획일적인 문화를 추구한다.</Text>
+                </InitItem>
+                <InitItem ID="3" Name="Item3">
+                  <Text>④ 관광 이익을 지역사회에 환원한다.</Text>
+                </InitItem>
+                <InitItem ID="4" Name="Item4">
+                  <Text>⑤ 지역의 전통문화를 존중한다.</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="③ 지역의 획일적인 문화를 추구한다."/>
+              </AnswerList>
+            </Opt>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="Typing1">
+            <Typing1>
+              <Question>Q3. 태안은 수려한 자연환경과 공동체의 정신으로 ○○○○로 선정되었다.</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="슬로시티"/>
+              </AnswerList>
+            </Typing1>
+          </InitQuiz>
+        </QuizList>
+        <Node Clear="3" fail="0"></Node>
+      </InitQuizInfo>
+    </QuizTimeAtk>
+    <LinkQuiz>
+      <InitQuizInfo ID="0">
+        <Text>Q. "공주와 상사뱀의 전설"에서는 상사뱀, 번갯불, 공주탕, 회전문과 같은 이야기 요소들이 상징적 의미를 지닌 채 이야기를 구성하고 있습니다. 이와 알맞은 상징적 의미를 연결해 보세요.
+1. 사랑을 이루지 못한 이의 한과 집착
+2. 기도를 앞두고 몸을 깨끗이 하는 정화의 공간
+3. 잘못을 저지른 자에게 벌을 내리는 신비한 힘
+4. 신성한 곳과 세속의 공간을 구분 짓는 경계이자 절의 출입구</Text>
+        <LeftPanel>
+          <InitItem ID="0" Name="qitem1">
+            <Text>ㄱ. 공주탕</Text>
+            <Pair>1</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="qitem2">
+            <Text>ㄴ. 회전문</Text>
+            <Pair>3</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="qitem3">
+            <Text>ㄷ. 번갯불</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="3" Name="qitem4">
+            <Text>ㄹ. 상사뱀</Text>
+            <Pair>0</Pair>
+          </InitItem>        
+        </LeftPanel>
+        <RightPanel>
+          <InitItem ID="0" Name="aitem1">
+            <Text>1.</Text>
+            <Pair>3</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="aitem2">
+            <Text>2.</Text>
+            <Pair>0</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="aitem3">
+            <Text>3.</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="3" Name="aitem4">
+            <Text>4.</Text>
+            <Pair>1</Pair>
+          </InitItem>
+          <!--
+          <InitItem ID="4" Name="aitem5">
+            <Text>E. 종이</Text>
+            <Pair>3</Pair>
+          </InitItem>
+          -->
+        </RightPanel>
+      </InitQuizInfo>
+    </LinkQuiz>
+    <OptQuiz>
+      <!-- 테스트 해봐야 함...-->
+      <InitQuizInfo ID="0">
+        <Question>Q. 김유정 작가의 대표작 '동백꽃'의 제목인 '동백꽃'은 무슨 색깔의 꽃일까?</Question>        
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>1. 붉은색</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>2. 노란색</Text>
+          </InitItem>          
+          <InitItem ID="2" Name="Item2">
+            <Text>3. 보라색</Text>
+          </InitItem>          
+          <InitItem ID="3" Name="Item3">
+            <Text>4. 흰색</Text>
+          </InitItem>          
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="1" Answer="2. 노란색"/>
+        </AnswerList>
+      </InitQuizInfo>
+      
+      
+      <!-- 퀴즈 추가 해야 함....-->
+      
+      
+      <InitQuizInfo ID="1">
+        <Question>Q 2. [봄·봄]에서는 비참할 수 있는 상황에, 바보 같을 정도로 순박한 인물이 등장하여 웃음을 자아내고 있습니다. 누군가의 잘잘못을 논리적으로 비판하거나 신세를 한탄하기보다는, 장인 어르신의 수염을 잡아채는 것처럼 어이없는 촌극을 보여줌으로써 특유의 재미와 감동을 주고 있습니다. 이를 무엇이라고 할 수 있을까요?</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>1. 풍자</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>2. 고백</Text>
+          </InitItem>          
+          <InitItem ID="2" Name="Item2">
+            <Text>3. 해학</Text>
+          </InitItem>
+          <InitItem ID="3" Name="Item3">
+            <Text>4. 동경</Text>
+          </InitItem>          
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="2" Answer="3. 해학"/>
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+      <InitQuizInfo ID="2">
+        <Question>Q [봄·봄]에서는 비참할 수 있는 상황에, 바보 같을 정도로 순박한 인물이 등장하여 웃음을 자아내고 있습니다. 누군가의 잘잘못을 논리적으로 비판하거나 신세를 한탄하기보다는, 장인 어르신의 수염을 잡아채는 것처럼 어이없는 촌극을 보여줌으로써 특유의 재미와 감동을 주고 있습니다. 이를 무엇이라고 할 수 있을까요?</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>1. 풍자</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>2. 고백</Text>
+          </InitItem>
+          <InitItem ID="2" Name="Item2">
+            <Text>3. 해학</Text>
+          </InitItem>
+          <InitItem ID="3" Name="Item3">
+            <Text>4. 동경</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="2" Answer="3. 해학"/>
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+
+
+
+
+
+    </OptQuiz>        
+    <ImgOptQuiz>
+      <InitQuizInfo ID="0">
+        <Question>Q 1. 한옥을 관찰한 뒤, 한옥을 지을 때 사용한 재료를 모두 골라 보세요.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>
+          <!--
+          <InitAnswer ID="1" Answer="학습성"/>
+          <InitAnswer ID="2" Answer="축적성"/>
+          <InitAnswer ID="3" Answer="변동성"/>
+          -->
+        </AnswerList>
+      </InitQuizInfo>
+      
+      
+      
+      <InitQuizInfo ID="1">
+        <Question>Q 2. 다음을 읽고, 어떤 재료에 대한 설명인지 선택하시오.
+
+ 1. 빗물을 흡수하고 빨리 흘러내리게 하여 목재구조를 보호하는 역할을 하는 재료로, 처마를 구성한다.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>         
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+
+      <InitQuizInfo ID="2">
+        <Question>Q 2. 다음을 읽고, 어떤 재료에 대한 설명인지 선택하시오.
+        
+ 2. 단단하고 습기를 머금지 않아서 나무를 물로부터 보호하는 역할을 하는 재료이다. 주로 한옥의 밑부분 재료로 많이 사용되며, 다듬지 않고 사용한 모습에서 자연미를 엿볼 수 있다.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>          
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+
+      <InitQuizInfo ID="3">
+        <Question>Q 2. 다음을 읽고, 어떤 재료에 대한 설명인지 선택하시오.
+
+ 3. 미세한 구멍이 뚫려있어 공간 안팎의 공기를 순환시킬 수 있으며 문과 창에 붙여 직사광선을 막고, 실내의 습기와 온도를 조절하는 재료이다.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>         
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+
+      <InitQuizInfo ID="4">
+        <Question>Q 2. 다음을 읽고, 어떤 재료에 대한 설명인지 선택하시오.
+
+ 4. 한옥의 기본 뼈대를 구성하는 재료이다. 소리를 흡수하며 열을 잘 전달하지 않아 여름철에도 시원한 온도를 유지하여 마루를 만드는 데 사용된다. 가공이 쉬워 조각하여 서로 끼워 맞추는 형식으로 제작되며, 유연성이 있어 지진에 강하다.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>          
+        </AnswerList>
+      </InitQuizInfo>
+
+
+
+      <InitQuizInfo ID="5">
+        <Question>Q 2. 다음을 읽고, 어떤 재료에 대한 설명인지 선택하시오.
+
+ 5. 이것을 물에 반죽하여 벽을 만들면 단단한 벽을 만들 수 있다. 이 재료로 벽을 만들면 공기층이 섞이며 보온보냉의 기능이 높아져 여름에 시원하게 겨울에 따뜻하게 지낼 수 있다.</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="item0">
+            <Sprite>공유성</Sprite>
+            <Text>공유성</Text>
+          </InitItem>
+          <InitItem ID="1" Name="item1">
+            <Sprite>학습성</Sprite>
+            <Text>학습성</Text>
+          </InitItem>
+          <InitItem ID="2" Name="item2">
+            <Sprite>축적성</Sprite>
+            <Text>축적성</Text>
+          </InitItem>
+          <InitItem ID="3" Name="item3">
+            <Sprite>변동성</Sprite>
+            <Text>변동성</Text>
+          </InitItem>
+          <InitItem ID="4" Name="item4">
+            <Sprite>전체성</Sprite>
+            <Text>전체성</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="공유성"/>
+        </AnswerList>
+      </InitQuizInfo>
+    </ImgOptQuiz>
+    <!--Typeing-->
+    <Typing1Quiz>      
+      <InitQuizInfo ID="0">          
+        <Question>Q 1. 땅의 주인을 대신하여 소작농을 관리하는 사람을 무엇이라고 부를까요? (2음절)</Question>
+          <AnswerList>
+            <InitAnswer ID="0" Answer="마름"/>
+          </AnswerList>          
+      </InitQuizInfo>
+      
+      
+      
+      
+      <InitQuizInfo ID="1">
+        <Question>Q. 어제의 미달러 가격 900원과 오늘의 미달러 가격 1,000원이라 할 때, ###(은)는 3,500 미국 달러를 구매해야 합니다. 얼마의 한화(원)를 지불해야 할까요?</Question>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="3500000"/>
+        </AnswerList>
+      </InitQuizInfo>
+      
+      
+      
+      
+      <InitQuizInfo ID="2">
+        <Question>Q.  2018년 8월 기준, 원유 1배럴을 약 80 미국 달러에 구매할 수 있었습니다.
+1. 당시 환율이 1달러에 1,100원이었다면, 원유 1배럴은 원화로 얼마일까요?
+        </Question>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="88000"/>
+        </AnswerList>
+      </InitQuizInfo>
+      <InitQuizInfo ID="3">
+        <Question>Q.  2018년 8월 기준, 원유 1배럴을 약 80 미국 달러에 구매할 수 있었습니다.
+2. 미국 달러의 환율이 낮아져 1달러에 900원이 되었다면, 원유 1배럴은 원화로 얼마일까요?</Question>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="72000"/>
+        </AnswerList>
+      </InitQuizInfo>
+      <InitQuizInfo ID="4">
+        <Question>Q. 2018년 8월 기준, 원유 1배럴을 약 80 미국 달러에 구매할 수 있었습니다.
+3. 외화의 환율이 낮아지면 외화를 살 때, 더 [적은/많은] 한화가 필요함을 의미합니다. 따라서 수입품이 한화로 더 [싸게/비싸게] 느껴져서 외국 재화의 수입이 [줄게/늘게] 됩니다. 이는 한국 수입(import)의 [감소/증가]를 의미합니다.</Question>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="적은,싸게,늘게,증가"/>
+        </AnswerList>
+      </InitQuizInfo>
+    </Typing1Quiz>
+  </List> 
+</Quiz>
